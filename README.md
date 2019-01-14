@@ -23,11 +23,11 @@
 - **Digital Libraries**
     - [```ACM DL```]() [```Xplore```]() [```SpringerLink```]() [```arXiv```]() [```Cornell```]()
 - **Badges**
-    - [![](https://img.shields.io/badge/%20-Classic-red.svg)]((https://github.com/jihochoi)
+    - [![](https://img.shields.io/badge/%20-Classic-red.svg)](https://github.com/jihochoi)
 [![](https://img.shields.io/badge/%20-Dataset-blue.svg)](https://github.com/jihochoi)
 [![](https://img.shields.io/badge/%20-Code-yellow.svg)](https://github.com/jihochoi)
 [![](https://img.shields.io/badge/%20-Software-purple.svg)](https://github.com/jihochoi)
-[![](https://img.shields.io/badge/%20-Algorithm-red.svg)]((https://github.com/jihochoi)
+[![](https://img.shields.io/badge/%20-Algorithm-red.svg)](https://github.com/jihochoi)
 [![](https://img.shields.io/badge/%20-Link-green.svg)](https://github.com/jihochoi)
 [![](https://img.shields.io/badge/%20-Survey-red.svg)](https://github.com/jihochoi)
 
@@ -44,7 +44,7 @@
 
 
 ### 1. Social Network Analysis (Social Media Analysis)
-- What is Twitter, a Social Network or a News Media? (WWW 2010) [```ACM DL```](https://dl.acm.org/citation.cfm?id=1772751) [```PDF```](https://an.kaist.ac.kr/~haewoon/papers/2010-www-twitter.pdf) [![](https://img.shields.io/badge/%20-Classic-red.svg)]((https://github.com/jihochoi)
+- What is Twitter, a Social Network or a News Media? (WWW 2010) [```ACM DL```](https://dl.acm.org/citation.cfm?id=1772751) [```PDF```](https://an.kaist.ac.kr/~haewoon/papers/2010-www-twitter.pdf) [![](https://img.shields.io/badge/%20-Classic-red.svg)](https://github.com/jihochoi)
 [![](https://img.shields.io/badge/%20-Dataset-blue.svg)](https://github.com/jihochoi)
 - Doodle Around the World: Online Scheduling Behavior Reflects Cultural Differences in Time Perception and Group Decision-Making (CSCW 2013)
 - BotOrNot: A System to Evaluate Social Bots (WWW 2016) [![](https://img.shields.io/badge/%20-Software-purple.svg)](https://github.com/jihochoi)
@@ -55,10 +55,10 @@
 
 ### 2. Information Diffusion / Propagation
 - On the Bursty Evolution of Blogspace (WWW 2003)
-- Information Diffusion Through Blogspace (WWW 2004) [![](https://img.shields.io/badge/%20-Classic-red.svg)]((https://github.com/jihochoi)
+- Information Diffusion Through Blogspace (WWW 2004) [![](https://img.shields.io/badge/%20-Classic-red.svg)](https://github.com/jihochoi)
 - Information Contagion: an Empirical Study of the Spread of News on Digg and Twitter Social Networks (AAAI 2010)
 - The Role of Social Networks in Information Diffusion (WWW 2012)
-- Structure and Dynamics of Information Pathways in Online Media (WSDM 2013) [![](https://img.shields.io/badge/%20-Algorithm-red.svg)]((https://github.com/jihochoi)
+- Structure and Dynamics of Information Pathways in Online Media (WSDM 2013) [![](https://img.shields.io/badge/%20-Algorithm-red.svg)](https://github.com/jihochoi)
 - Information Diffusion in OSNs: A Survey (SIGMOD 2013)
 - Dynamic Propagation Rates: New Dimension to Viral Marketing in OSNs (ICDM 2017)
 
@@ -72,18 +72,18 @@
 
 
 ### 4. Link Prediction / Network Inference
-- Inferring Networks of Diffusion and Influence (KDD 2010) [![](https://img.shields.io/badge/%20-Algorithm-red.svg)]((https://github.com/jihochoi) #NetInf
+- Inferring Networks of Diffusion and Influence (KDD 2010) [![](https://img.shields.io/badge/%20-Algorithm-red.svg)](https://github.com/jihochoi) #NetInf
 - On the Convexity of Latent Social Network Inference (NIPS 2010)
-- Uncovering the Temporal Dynamics of Diffusion Networks (ICML 2011) [![](https://img.shields.io/badge/%20-Algorithm-red.svg)]((https://github.com/jihochoi) #NetRate
+- Uncovering the Temporal Dynamics of Diffusion Networks (ICML 2011) [![](https://img.shields.io/badge/%20-Algorithm-red.svg)](https://github.com/jihochoi) #NetRate
 
 
 ### 5. Influential / Influence Maximization (Estimation, Limitation)
-- Maximizing the Spread of Influence through a Social Network (KDD 2003) [```ACM DL```](https://dl.acm.org/citation.cfm?id=956769) [![](https://img.shields.io/badge/%20-Classic-red.svg)]((https://github.com/jihochoi)
+- Maximizing the Spread of Influence through a Social Network (KDD 2003) [```ACM DL```](https://dl.acm.org/citation.cfm?id=956769) [![](https://img.shields.io/badge/%20-Classic-red.svg)](https://github.com/jihochoi)
 - Finding Influentials Based on the Temporal Order of Information Adoption in Twitter (WWW 2010)
 - Limiting the Spread of Misinformation in Social Networks (WWW 2011)
     - EIL: Eventual Influence Limitation
 - Influence Maximization in Continuous Time Diffusion Networks (ICML 2012)
-- Scalable Influence Estimation in Continuous-Time Diffusion Networks (NIPS 2013) [![](https://img.shields.io/badge/%20-Algorithm-red.svg)]((https://github.com/jihochoi) #ConTinEst
+- Scalable Influence Estimation in Continuous-Time Diffusion Networks (NIPS 2013) [![](https://img.shields.io/badge/%20-Algorithm-red.svg)](https://github.com/jihochoi) #ConTinEst
 - Portfolio Optimization for Influence Spread (WWW 2017)
 - Temporal Influence Blocking: Minimizing the Effect of Misinformation in Social Networks (ICDM 2017)
     - TIP: Temporal Influence Blocking
