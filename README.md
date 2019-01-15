@@ -10,11 +10,12 @@
 4. Link Prediction / Network Inference
 5. Influential / Influence Estimation / Maximization
 6. Community Structure / Strong & Weak Ties
-<!-- 6. Anomaly Detection / Fake News Detection -->
 7. Network Embedding / Deep Learning
 8. Miscellaneous
     1. Motifs and Graphlets
     2. Anomaly Detection / Fake News Detection
+
+<!-- 6. Anomaly Detection / Fake News Detection -->
 
 
 <!--
@@ -136,9 +137,8 @@ Link Prediction
 
 
 
-
 ### Contribution
-- `Pull requests` are welcomed
+- `Pull requests`
 
 ### References
 - [Stanford Network Analysis Project (SANP)](http://snap.stanford.edu/) @ Stanford
