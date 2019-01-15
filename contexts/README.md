@@ -38,36 +38,3 @@ Fake News Detection on Social Media: A Data Mining Perspective
 FakeNewsTracker: A Tool for Fake News Collection, Detection, and Visualization
 3. arXiv 2018
 FakeNewsNet: A Data Repository with News Content, Social Context and Dynamic Information for Studying Fake News on Social Media
-
-
-
-
-
-
-
-
-
-
-Conferences
-1. KDD
-2. WWW
-3. WSDM
-4. AAAI
-5. ICWSM
-6. ICDM
-7. ICDE
-8. CIKM
-9. CSCW
-
-Tags
-1. . Classic
-2. . Survey
-3. . Algorithm
-a. #NetInf
-b. #ConTinEst
-4. . Software
- . #Hoaxy
-5. . Dataset
- . #FakeNewsNet
-a. #DebateNight
-6.
