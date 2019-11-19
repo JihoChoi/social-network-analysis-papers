@@ -106,10 +106,11 @@ Link Prediction
 - Structural Role Extraction & Mining in Large Graphs (KDD 2012) [```ACM DL```](https://dl.acm.org/citation.cfm?id=2339723)
 
 
-### 7. Network Embedding / Deep Learning
+### 7. Network Embedding / Graph Neural Network / Deep Learning
 - DeepWalk: Online Learning of Social Representations (KDD 2014)
 - LINE: Large-scale Information Network Embedding (WWW 2015)
 - A Survey on Network Embedding (AAAI 2018) [![](https://img.shields.io/badge/%20-Survey-red.svg)](https://github.com/jihochoi)
+- Representation Learning on Networks [(WWW 2018 Tutorial)](http://snap.stanford.edu/proj/embeddings-www/)
 
 
 ### 8. Miscellaneous
