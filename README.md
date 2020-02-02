@@ -57,8 +57,9 @@ Graph Mining / Web Search
 | ASONAM | ICWSM |      |      |     |
 
 Representation Learning on Networks
-| | | | | |
-| ---- | ---- | ---- | ---- | ----- |
+
+|         |      |      |      |      |
+| ------- | ---- | ---- | ---- | ---- |
 | NeurIPS | ICLR | ICML | AAAI | CVPR |
 
 ### 1 Social Network Analysis (Social Media Analysis)
