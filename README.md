@@ -14,8 +14,9 @@
 6. Network Inference / Link Prediction
 7. Influential / Influence Maximization (Estimation, Limitation)
 8. Community Structure / Strong & Weak Ties
-9. Network Embedding / Graph Neural Network
-10. Miscellaneous
+9. Graph Kernel
+10. Network Embedding / Graph Neural Network
+11. Miscellaneous
     1. Anomaly Detection / Fake News Detection
     2. Motifs and Graphlets
 
@@ -140,7 +141,10 @@ Representation Learning on Networks
 - Statistical Properties of Community Structure in Large Social and Information Networks (WWW 2008)
 - Structural Role Extraction & Mining in Large Graphs (KDD 2012) [`ACM DL`](https://dl.acm.org/citation.cfm?id=2339723)
 
-### 9. Network Embedding / Graph Neural Network
+### 9. Graph Kernel
+- Weisfeiler-Lehman Graph Kernels (JMLR 2011)
+
+### 10. Network Embedding / Graph Neural Network
 
 - Representation Learning on Networks [(WWW 2018 Tutorial)](http://snap.stanford.edu/proj/embeddings-www/)
 
@@ -162,8 +166,9 @@ Representation Learning on Networks
   - GraphSAGE
 - Graph Attention Networks (ICLR 2018) [`arXiv`](https://arxiv.org/abs/1710.10903v3) [`WEB`](https://petar-v.com/GAT/)
 - Heterogeneous Graph Attention Network (WWW 2019) [`ACM DL`](https://dl.acm.org/doi/10.1145/3308558.3313562)
+- How Powerful are Graph Neural Networks? (ICLR 2019)
 
-### 10. Miscellaneous
+### 11. Miscellaneous
 
 ##### Anomaly Detection / Fake News Detection
 
