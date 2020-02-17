@@ -10,7 +10,7 @@
 2. Graph / Network Theory
 3. Network Feature Extraction / Feature Engineering
 4. Information Propagation / Diffusion / Cascades
-5. Dynamic Network / Evolving Network
+5. Temporal, Dynamic Network / Evolving Network
 6. Network Inference / Link Prediction
 7. Influential / Influence Maximization (Estimation, Limitation)
 8. Community Structure / Strong & Weak Ties
@@ -110,9 +110,10 @@ Representation Learning on Networks
 - Joint Modeling of Text and Networks for Cascade Prediction (ICWSM 2018)
 - Do Diffusion Protocols Govern Cascade Growth? (ICWSM 2018)
 
-### 5. Dynamic Network / Evolving Network
+### 5. Temporal, Dynamic Network / Evolving Network
+- Graphs over Time: Densification Laws, Shrinking Diameters and Possible Explanations (KDD 2005) [![](https://img.shields.io/badge/Temporal-blue.svg)](http://snap.stanford.edu/data/cit-HepPh.html)
+- Structural Dynamics of Knowledge Networks (ICWSM 2013) [![](https://img.shields.io/badge/Temporal-blue.svg)](http://konect.uni-koblenz.de/networks/)
 
-- .
 
 ### 6. Network Inference / Link Prediction
 
