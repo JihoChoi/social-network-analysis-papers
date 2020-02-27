@@ -160,7 +160,8 @@ Representation Learning on Networks
 
 ##### Graph Neural Network / Graph Convolutional Network
 
-- GNN
+- The Graph Neural Network Model (Trans on NNs 2009) [`Xplore`](https://ieeexplore.ieee.org/document/4700287)
+  - GNN
 - Semi-Supervised Classification with Graph Convolutional Networks (ICLR 2017)
   - GCN
 - Inductive representation learning on large graphs (NIPS 2017) [`ACM DL`](https://dl.acm.org/doi/10.5555/3294771.3294869)
@@ -168,6 +169,7 @@ Representation Learning on Networks
 - Graph Attention Networks (ICLR 2018) [`arXiv`](https://arxiv.org/abs/1710.10903v3) [`WEB`](https://petar-v.com/GAT/)
 - Heterogeneous Graph Attention Network (WWW 2019) [`ACM DL`](https://dl.acm.org/doi/10.1145/3308558.3313562)
 - How Powerful are Graph Neural Networks? (ICLR 2019)
+- Graph Isomorphism Network (GIN)
 
 ### 11. Miscellaneous
 
