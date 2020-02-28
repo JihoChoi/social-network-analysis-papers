@@ -121,6 +121,7 @@ Representation Learning on Networks
 - On the Convexity of Latent Social Network Inference (NIPS 2010)
 - Uncovering the Temporal Dynamics of Diffusion Networks (ICML 2011) [![](https://img.shields.io/badge/%20-Algorithm-purple.svg)](https://github.com/jihochoi) #NetRate
 - Efficient K-Nearest Neighbor Graph Construction for Generic Similarity Measures (WWW 2011) [`ACM DL`](https://dl.acm.org/citation.cfm?id=1963487)
+- Weisfeiler-Lehman Neural Machine for Link Prediction (KDD 2017) [`VIDEO`](https://youtu.be/dRC4T2gABS8)
 
 ### 7. Influential / Influence Maximization (Estimation, Limitation)
 
