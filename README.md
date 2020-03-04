@@ -63,7 +63,7 @@ Representation Learning on Networks
 | ------- | ---- | ---- | ---- | ---- |
 | NeurIPS | ICLR | ICML | AAAI | CVPR |
 
-### 1 Social Network Analysis (Social Media Analysis)
+### 1. Social Network Analysis (Social Media Analysis)
 
 - Measuring User Influence in Twitter: The Million Follower Fallacy (ICWSM 2010) [`AAAI`](https://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/index)
 - What is Twitter, a Social Network or a News Media? (WWW 2010) [`ACM DL`](https://dl.acm.org/citation.cfm?id=1772751) [`PDF`](https://an.kaist.ac.kr/~haewoon/papers/2010-www-twitter.pdf) [![](https://img.shields.io/badge/%20-Classic-red.svg)](https://github.com/jihochoi) [![](https://img.shields.io/badge/%20-Dataset-blue.svg)](https://github.com/jihochoi)
@@ -74,8 +74,9 @@ Representation Learning on Networks
 - SNA: Characteristics of OSNs after a disaster (Information Management 2017)
 - Ranking Users in SNs with Higher-Order Structures (AAAI 2018)
 - From Data Mining to Knowledge Discovery in Databases (AAAI 1996)
+- Me, My Echo Chamber, and I: Introspection on Social Media Polarization (WWW 2018)
 
-### 2 Graph / Network Theory
+### 2. Graph / Network Theory
 
 - Emergence of Scaling in Random Networks (SCIENCE 1999)
 - On Power-Law Relationships of the Internet Topology (SIGCOMM 1999)
