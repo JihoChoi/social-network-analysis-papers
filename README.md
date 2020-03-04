@@ -73,6 +73,7 @@ Representation Learning on Networks
 - Exploring Limits to Prediction in Complex Social Systems (WWW 2016)
 - SNA: Characteristics of OSNs after a disaster (Information Management 2017)
 - Ranking Users in SNs with Higher-Order Structures (AAAI 2018)
+- From Data Mining to Knowledge Discovery in Databases (AAAI 1996)
 
 ### 2 Graph / Network Theory
 
@@ -99,8 +100,9 @@ Representation Learning on Networks
 - Information Contagion: an Empirical Study of the Spread of News on Digg and Twitter Social Networks (AAAI 2010)
 - The Role of Social Networks in Information Diffusion (WWW 2012)
 - Structure and Dynamics of Information Pathways in Online Media (WSDM 2013) [![](https://img.shields.io/badge/%20-Algorithm-purple.svg)](https://github.com/jihochoi)
-- Information Diffusion in OSNs: A Survey (SIGMOD 2013)
+- Information Diffusion in Online Social Networks: A Survey (SIGMOD 2013)
 - Dynamic Propagation Rates: New Dimension to Viral Marketing in OSNs (ICDM 2017)
+- Realtime Analysis of Information Diffusion in Social Media (VLDB 2013)
 
 ##### Information Cascades
 
@@ -109,6 +111,7 @@ Representation Learning on Networks
 - The Influence of Early Respondents: Information Cascade Effects in Online Event Scheduling (WWW 2017)
 - Joint Modeling of Text and Networks for Cascade Prediction (ICWSM 2018)
 - Do Diffusion Protocols Govern Cascade Growth? (ICWSM 2018)
+- Cascading Behavior in Large Blog Graphs (SDM 2007)
 
 ### 5. Temporal, Dynamic Network / Evolving Network
 - Graphs over Time: Densification Laws, Shrinking Diameters and Possible Explanations (KDD 2005) [![](https://img.shields.io/badge/Temporal-blue.svg)](http://snap.stanford.edu/data/cit-HepPh.html)
@@ -122,6 +125,8 @@ Representation Learning on Networks
 - Uncovering the Temporal Dynamics of Diffusion Networks (ICML 2011) [![](https://img.shields.io/badge/%20-Algorithm-purple.svg)](https://github.com/jihochoi) #NetRate
 - Efficient K-Nearest Neighbor Graph Construction for Generic Similarity Measures (WWW 2011) [`ACM DL`](https://dl.acm.org/citation.cfm?id=1963487)
 - Weisfeiler-Lehman Neural Machine for Link Prediction (KDD 2017) [`VIDEO`](https://youtu.be/dRC4T2gABS8)
+- Learning Social Network Embeddings for Predicting
+Information Diffusion (WSDM 2014)
 
 ### 7. Influential / Influence Maximization (Estimation, Limitation)
 
@@ -171,6 +176,7 @@ Representation Learning on Networks
 - Heterogeneous Graph Attention Network (WWW 2019) [`ACM DL`](https://dl.acm.org/doi/10.1145/3308558.3313562)
 - How Powerful are Graph Neural Networks? (ICLR 2019)
 - Graph Isomorphism Network (GIN)
+- Deep learning (nature 2015)
 
 ### 11. Miscellaneous
 
