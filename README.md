@@ -51,11 +51,11 @@ Link Prediction
 
 Graph Mining / Web Search
 
-|        |       |      |      |     |
-| ------ | ----- | ---- | ---- | --- |
-| KDD    | WWW   | WSDM |      |     |
-| ICDM   | ICDE  | CIKM | CSCW |     |
-| ASONAM | ICWSM |      |      |     |
+|        |       |      |      |       |
+| ------ | ----- | ---- | ---- | ----- |
+| KDD    | WWW   | WSDM | PKDD | PAKDD |
+| ICDM   | ICDE  | CIKM | CSCW |       |
+| ASONAM | ICWSM |      |      |       |
 
 Representation Learning on Networks
 
@@ -148,6 +148,7 @@ Information Diffusion (WSDM 2014)
 
 - Statistical Properties of Community Structure in Large Social and Information Networks (WWW 2008)
 - Structural Role Extraction & Mining in Large Graphs (KDD 2012) [`ACM DL`](https://dl.acm.org/citation.cfm?id=2339723)
+- Community Interaction and Conflict on the Web (WWW 2018)
 
 ### 9. Graph Kernel
 - Weisfeiler-Lehman Graph Kernels (JMLR 2011)
