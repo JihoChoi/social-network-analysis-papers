@@ -51,11 +51,11 @@ Link Prediction
 
 Graph Mining / Web Search
 
-|        |       |      |      |     |
-| ------ | ----- | ---- | ---- | --- |
-| KDD    | WWW   | WSDM |      |     |
-| ICDM   | ICDE  | CIKM | CSCW |     |
-| ASONAM | ICWSM |      |      |     |
+|        |       |      |      |       |
+| ------ | ----- | ---- | ---- | ----- |
+| KDD    | WWW   | WSDM | PKDD | PAKDD |
+| ICDM   | ICDE  | CIKM | CSCW |       |
+| ASONAM | ICWSM |      |      |       |
 
 Representation Learning on Networks
 
